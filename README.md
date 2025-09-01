@@ -28,3 +28,6 @@ A simple weather dashboard web application with chatbot functionality. This proj
 - Modify chatbot logic in `WeatherDashboard.js` to enhance responses.
 - Adjust styles in `WeatherDashboard.css` for a personalized look.
 
+## Screenshot
+![alt text](image.png)
+![alt text](image-1.png)
